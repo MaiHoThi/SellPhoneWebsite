@@ -1,6 +1,6 @@
 ### SellPhoneWebsite
 Đồ án web JavaScript/HTML/CSS
-ADMIN: 
-Username: admin
-Pass: longlong
+ADMIN: </br>
+Username: admin </br>
+Pass: longlong </br>
 
